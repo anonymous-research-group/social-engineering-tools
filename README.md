@@ -1,2 +1,2 @@
 # vcd-tools
-Tools for VCD attacks
+Tools for Social Engineering attacks
